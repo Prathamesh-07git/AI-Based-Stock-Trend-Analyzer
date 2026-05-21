@@ -1,7 +1,8 @@
-flask==3.1.0
+flask
 requests
-yfinance==0.2.54
-pandas==2.2.3
-numpy==2.2.3
-statsmodels==0.14.4
-scipy==1.15.2
+yfinance
+pandas
+numpy
+statsmodels
+scipy
+gunicorn
